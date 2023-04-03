@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Esta es la historia de un animal.
 jkasjjajsdia
 
 hoy hablaremos de su vida y obra maestra
+=======
+Esta es la historia de un animal
+
+Mañana nos enfocaremos en su vida laboral
+>>>>>>> cabecera
